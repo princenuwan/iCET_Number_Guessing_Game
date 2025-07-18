@@ -1,3 +1,4 @@
+<script>
 console.log(Math.floor(Math.random()*4));
 
 function clickEasyBtn(){
@@ -15,3 +16,4 @@ function clickHardBtn(){
 function clickHome(){
     window.location.href = "iCET_Number_Guessing_Game/index.html";
 }
+</script>
